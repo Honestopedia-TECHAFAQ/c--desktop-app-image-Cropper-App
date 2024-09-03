@@ -1,0 +1,14 @@
+C:\Users\CEO-FOUNER-HTS\Desktop\C# Desktop Photo Cropper Application\ImageCropperApp\obj\Debug\net8.0-windows\ImageCropperApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CEO-FOUNER-HTS\Desktop\C# Desktop Photo Cropper Application\ImageCropperApp\obj\Debug\net8.0-windows\ImageCropperApp.AssemblyInfoInputs.cache
+C:\Users\CEO-FOUNER-HTS\Desktop\C# Desktop Photo Cropper Application\ImageCropperApp\obj\Debug\net8.0-windows\ImageCropperApp.AssemblyInfo.cs
+C:\Users\CEO-FOUNER-HTS\Desktop\C# Desktop Photo Cropper Application\ImageCropperApp\obj\Debug\net8.0-windows\ImageCropperApp.csproj.CoreCompileInputs.cache
+C:\Users\CEO-FOUNER-HTS\Desktop\C# Desktop Photo Cropper Application\ImageCropperApp\bin\Debug\net8.0-windows\ImageCropperApp.exe
+C:\Users\CEO-FOUNER-HTS\Desktop\C# Desktop Photo Cropper Application\ImageCropperApp\bin\Debug\net8.0-windows\ImageCropperApp.deps.json
+C:\Users\CEO-FOUNER-HTS\Desktop\C# Desktop Photo Cropper Application\ImageCropperApp\bin\Debug\net8.0-windows\ImageCropperApp.runtimeconfig.json
+C:\Users\CEO-FOUNER-HTS\Desktop\C# Desktop Photo Cropper Application\ImageCropperApp\bin\Debug\net8.0-windows\ImageCropperApp.dll
+C:\Users\CEO-FOUNER-HTS\Desktop\C# Desktop Photo Cropper Application\ImageCropperApp\bin\Debug\net8.0-windows\ImageCropperApp.pdb
+C:\Users\CEO-FOUNER-HTS\Desktop\C# Desktop Photo Cropper Application\ImageCropperApp\obj\Debug\net8.0-windows\ImageCropperApp.dll
+C:\Users\CEO-FOUNER-HTS\Desktop\C# Desktop Photo Cropper Application\ImageCropperApp\obj\Debug\net8.0-windows\refint\ImageCropperApp.dll
+C:\Users\CEO-FOUNER-HTS\Desktop\C# Desktop Photo Cropper Application\ImageCropperApp\obj\Debug\net8.0-windows\ImageCropperApp.pdb
+C:\Users\CEO-FOUNER-HTS\Desktop\C# Desktop Photo Cropper Application\ImageCropperApp\obj\Debug\net8.0-windows\ImageCropperApp.genruntimeconfig.cache
+C:\Users\CEO-FOUNER-HTS\Desktop\C# Desktop Photo Cropper Application\ImageCropperApp\obj\Debug\net8.0-windows\ref\ImageCropperApp.dll
